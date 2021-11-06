@@ -1,0 +1,11 @@
+p:first-child{
+    color: lime;
+    background-color: black;
+    padding: 5px;
+}
+
+p:last-child{
+    color: rgb(255, 45, 45);
+    background-color: black;
+    padding: 5px; 
+}

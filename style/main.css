@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(177, 218, 161);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+img{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    border-radius: 45%;
+}
+
+ul li a{
+    color: purple;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: square;
+}
+h1,h3{
+    text-align: center;
+    color: darkred;
+}

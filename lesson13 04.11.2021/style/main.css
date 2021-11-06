@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://cdn.dribbble.com/users/911415/screenshots/4014150/back-to-80s-2.gif");
+    background-size: cover;  
+    height: 100vh;
+    padding:0;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    line-height: 50px;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 20%;
+    width: 1000px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 0 5px 2px gray;
+}
+a{
+    color: rgb(94, 189, 94);
+    text-decoration: none;
+}
+l{
+    color: rgb(94, 189, 94);
+}
+.container2{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.one{
+    text-decoration: underline;
+    color: rgb(247, 6, 6);
+}
+.two{
+    text-decoration: underline;
+  color: rgb(94, 189, 94);  
+}
+p{
+    color:  rgb(94, 189, 94);
+}
+.o:hover{
+    color: royalblue;
+    font-size: x-large;
+}
+.active:active{
+    color: royalblue;
+}
+
+
+.focus:focus {
+    outline: 3px solid orange;
+}
+.veryyy{
+    margin-top: 10px;
+display: inline-block;
+}
+.VER{
+    float: left
+}
+.qwerty,.bombi{
+    margin-left: 10px;
+    float: left;
+}
+.block{
+    font-weight: bolder;
+    color: black;
+}
+.blockk{
+    color: black;
+}
+.LINKE{
+    text-decoration: underline;
+}
+.blue{
+    color: royalblue;
+}
+.block1{
+    margin-top: 10px;
+}
+.block2{
+    margin-top: 10px;
+}
+.qqqq{
+    display: inline-block ;
+    margin-top: 30px;
+}
+.para{
+    margin-top: 10px;
+}
+.paragraph{
+    font-weight: bold;
+}
+.par{
+    margin-top: 10px;
+}
+.black{
+    color: black;
+    margin-top: 10px;
+}
+.blye{
+    color: royalblue;
+    margin-top: 10px;
+}

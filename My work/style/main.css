@@ -1,0 +1,173 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/1533326959_low-poly-background-generator-min.png);
+    background-size: cover;  
+    height: 100vh;
+    padding:0;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+}
+h1, h4 {
+    text-align: center;
+}
+
+h2 {
+    margin: 15px;
+}
+
+.main1 {
+    border-radius: 10%;
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(203, 224, 107);
+    width: 700px;
+    height: 350px;
+}
+.main1:hover{
+    background-color: royalblue;
+}
+
+.mainn1 {
+    border-radius: 10%;
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(203, 224, 107);
+    width: 700px;
+    height: 450px;
+}
+.mainn1:hover{
+    background-color: royalblue;
+}
+.main2 {
+    flex: 0 0 calc(25% - 15px);
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.main3{
+    margin-top: 50px;
+    flex: 0 0 calc(25% - 15px);
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.main4{
+    flex: 0 0 calc(25% - 15px);
+    height: 60px;
+    display: flex;
+}
+.a {
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(198, 238, 225);
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.aa {
+    padding: 5px;
+}
+
+.ab {
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    height: 1px;
+    background-color: red;
+}
+
+.ac {
+    padding: 5px;
+}
+a {
+    text-decoration: none;
+    border: 1px solid rgb(56, 93, 196);
+}
+a:hover {
+    font-size: 20px;
+}
+
+r {
+    color: rgb(133, 133, 133);
+    float: right;
+}
+
+.b {
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(198, 238, 225);
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.ba {
+    padding: 5px;
+}
+
+.bb {
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    height: 1px;
+    background-color: red;
+}
+
+.bc {
+    padding: 5px;
+}
+
+.c {
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(198, 238, 225);
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.ca {
+    padding: 5px;
+}
+
+.cb {
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    height: 1px;
+    background-color: red;
+}
+
+.cc {
+    padding: 5px;
+}
+
+.d {
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(198, 238, 225);
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.da {
+    padding: 5px;
+}
+
+.db {
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    height: 1px;
+    background-color: red;
+}
+
+.dc {
+    padding: 5px;
+}

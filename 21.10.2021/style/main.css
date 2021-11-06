@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 100vh;
+    background: url(/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 100%;
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.s {
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.l {
+    margin: 50px;
+    font-size: x-large;
+}
+
+.words {
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    margin-left: 150px;
+    display: flex;
+}
+
+li {
+    margin: 1vw;
+    display: inline;
+    list-style-type: none;
+}
+.center{
+    color: white;
+    margin: 200px;
+ text-align: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+.button{
+    padding-top: 50px;
+    padding-left: 250px;
+}
+p{
+    padding: 30px 0 0 0;
+}
+.btn{
+    display: block;
+    width: 180px ;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 20px;
+    border: 2px solid #fff;
+    border-radius: 2ptx;
+    background: transparent;
+    text-transform: uppercase;
+    transition: 1,5s;
+}
+.btn:hover{
+    background-color: white;
+    color:red ;
+    font-weight: 700;
+}
+.main{
+    padding: 100px;
+    height: 600px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+}
+.main-inner{
+    width: 100%;
+    padding: 100px 0;
+}
+p{
+    padding: 30px 0 0 0;
+}
+h2,p{
+    text-align: center;
+}
+.enough{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    width: 50px;
+    border-radius: 1px;
+    border: none;
+    height: 1px ;
+    background-color: black;
+    color: black;
+    margin-top: 20px;
+}
+i{
+    font-size: 48px;
+    color: #c0301c;
+}
+.picture{
+    border:2px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 7em;
+    text-align: center;
+}
+.picture:hover{
+    background: red;
+}
+.i:hover{
+    color: white
+}
+.main-three{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.fa-home:hover,.fa-code:hover,.fa-font:hover{
+    color: white;
+}
+.text{
+   width: 250px;
+   height: 250px;
+   text-align: center;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+   flex-wrap: nowrap;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    background-color: red;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.footer-inner{
+    padding: 100px 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.one{
+    text-align: center;
+    height: 90px;
+    width: 90px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    border:2px solid white ;
+    border-radius: 50%;
+    line-height: 7em;
+}
+.popit{ 
+    text-align: center;
+    height: 90px;
+    width: 90px;
+    margin: 10px;
+    border:2px solid white ;
+    border-radius: 50%;
+    line-height: 7em;
+}
+.lolik{
+   
+    text-align: center;
+    height: 90px;
+    width: 90px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    border:2px solid white ;
+    border-radius: 50%;
+    line-height: 7em;
+}
+
+.fa-twitter{
+    margin: 10px;
+    font-size: 40px;
+}
+.bobik{
+    
+    text-align: center;
+    height: 90px;
+    width: 90px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    border:2px solid white ;
+    border-radius: 50%;
+    line-height: 7em;
+}
+.footer-picture{
+    padding-left: auto;
+    padding: 100px;
+    align-content: center;
+    margin-left: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.para{
+text-align: end;
+}
+.para{
+   padding: 5px;
+   margin-bottom: 5px;
+   text-align: center;
+   width: 75%;
+}
